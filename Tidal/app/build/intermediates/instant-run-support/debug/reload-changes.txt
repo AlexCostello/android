@@ -1,2 +1,0 @@
-CHANGED,C:\Users\Alex\AndroidStudioProjects\Tidal\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\costello\alex\tidal\TideFeedActivity$override.class
-CHANGED,C:\Users\Alex\AndroidStudioProjects\Tidal\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
